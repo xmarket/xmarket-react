@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "xmarket-react",
+  "version": "1.0.0",
+  "description": "XMarket React common",
+  "main": "index.js",
+  "author": "Rebbix",
+  "devDependencies": {
+    "react": "0.13.3"
+  }
+}
