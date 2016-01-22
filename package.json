@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "xmarket-react",
+  "name": "react",
   "version": "1.0.0",
   "description": "XMarket React common",
   "main": "index.js",
