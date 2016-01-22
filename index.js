@@ -1,1 +1,1 @@
-module.exports = require('react/dist/react-with-addons.min.js');
+module.exports = require('./react-with-addons.min.js');
