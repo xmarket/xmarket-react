@@ -5,7 +5,7 @@
   "description": "XMarket React common",
   "main": "index.js",
   "author": "Rebbix",
-  "devDependencies": {
+  "dependencies": {
     "react": "0.13.3"
   }
 }
